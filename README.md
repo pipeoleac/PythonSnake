@@ -1,7 +1,10 @@
 # PythonSnake
 
-Juego de Snake porgramado en python, muy buena forma para aprende programacion orientada a objetos y mas
+Juego de Snake programadoo en python, muy buena forma para aprendre programacion orientada a objetos y más.
 
+1) git clone
+
+2) run main
 
 
 
